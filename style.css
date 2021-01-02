@@ -1,0 +1,56 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+
+body{
+    background-image: url("https://cdn.4uc.org/i/images/crn/7550239/selfesteem.jpg") ;
+    background-size:100% 100%  ;
+    width: 100vw;
+    height: 100vh;
+}
+  
+
+ h1 {
+    font-family: 'Yellowtail', cursive;
+    color:aqua;
+    font-size: 300%;
+}
+
+img{
+    size: 200px;
+    height: 200px;
+    width: 300px;
+    text-align: center;
+}
+p{
+    color: rgb(6, 51, 173);
+    font-size: 20px;
+    text-align:left;
+  
+}
+
+happy new year{
+    text-align: left;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
